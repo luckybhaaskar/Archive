@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes Cure</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+        .blue-link {
+            color: navyblue;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+        .image-section {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-section img {
+            width: 100%;
+            max-width: 500px;
+            border: 1px solid #ccc;
+        }
+        .footer {
+            font-size: 12px;
+            color: gray;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .link {
+            color: blue;
+            text-decoration: underline;
+        }
+        .optout {
+            font-size: 12px;
+            color: gray;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>Sugar is NOT what's causing your diabetes.</p>
+   
+    <p>Harvard doctors just exposed the real culprit - a leaky organ that's flooding your body with toxic glucose (it's NOT your pancreas or gut).</p>
+   
+    <p>Luckily, there's a <a href="https://{domain}{lpurl}" class="blue-link">sweet "red nectar"</a> that can heal this organ...</p>
+   
+    <p class="highlight">While erasing diabetes in weeks.</p>
+   
+    <div class="image-section">
+        <a href="https://{domain}{lpurl}"><img src="https://ucarecdn.com/630e1404-59d8-4616-a099-5aa8779fd7e4/4383gluclpim1.png" alt="Red Nectar"></a>
+    </div>
+   
+    <p>According to new studies, it's 370% better than Metformin.</p>
+   
+    <p>You just need to add 1 tsp to your breakfast...</p>
+   
+    <p>And watch your blood sugar stabilize TONIGHT:</p>
+   
+    <p>And clinical studies show it works ALL THE TIME:</p>
+   
+    <p><a href="https://{domain}{lpurl}" class="blue-link">>> eat THIS "red nectar" to erase diabetes (100% naturally).</a></p>
+   
+    <p class="optout">
+        275 Cumberland Parkway Ste 143 Mechanicsburg, PA 17055<br>
+        <a href="https://{domain}/{opurl}" class="link">Unsubscribe Here</a>
+    </p>
+   
+    <p class="footer">
+        This email was delivered by a third party. If you no longer wish to receive these emails, unsubscribe below.<br>
+        <a href="https://{domain}/{upurl}" class="link">Unsubscribe Here</a>
+        <a href="https://{domain}/{upurl}" class="link"></a>
+    </p>
+    <img src="https://{domain}/{ipurl}" width="1" height="1" border="0" alt="Pixel" style="display: none;">
+</body>
+</html>
+
